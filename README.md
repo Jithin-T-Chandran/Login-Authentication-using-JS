@@ -5,7 +5,9 @@ Acceptable username and Passwords are,
    password: user
  }
  
- username: admin
+ {
+ username: admin,
  password: newton
+ }
  
  Three files(index.html,style.css,script.js) and one folder containing an image are uploaded.
