@@ -1,7 +1,7 @@
 # Login-Authentication-using-JS
 Acceptable username and Passwords are,
  username: jithin
- password: user And
+ password: user
  
  username: admin
  password: newton
